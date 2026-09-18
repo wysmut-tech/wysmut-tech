@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=2000&center=true&vCenter=true&width=900&lines=Hello%2C+I%27m+Dmitriy+Semenov+%F0%9F%91%8B" />
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=600&center=true&vCenter=true&width=900&lines=Technical+Product+Manager+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=600&center=true&vCenter=true&width=900&lines=Senior+Engineer+%F0%9F%9A%80" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=600&center=true&vCenter=true&width=900&lines=AI%2FDS+master%27s+student+FIT+NSU+%F0%9F%93%9A" />
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=900&center=true&vCenter=true&width=900&lines=Research%3A+Bayesian+Invariant+Risk+Minimization+%F0%9F%94%AC" />
 </p>
