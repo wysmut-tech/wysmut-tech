@@ -19,7 +19,7 @@
 </p>
 <br/>
 <p align="center">
-  <a href="https://t.me/dxyzsem">Telegram</a> •
+  <a href="https://t.me/wysmut">Telegram</a> •
   <a href="mailto:d.semenov7@g.nsu.ru">Email</a>
 </p>
 <br/>
